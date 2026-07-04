@@ -5,15 +5,15 @@ An end-to-end Machine Learning web application that predicts the resale price of
 ---
 
 ## 👤 Developer Profile
-* **Name:** Akshat Garg
-* **Registration Number:** 23BCE10641
+* **Name:** Anish Bhattacharjee
+* **Registration Number:** 23BAI10736
 * **Course:** B.Tech Computer Science and Engineering
 
 ---
 
 ## 🔗 Project Links
 * **Live Dockerized Web Application:** [Insert Your New Render Live URL Here]
-* **GitHub Repository:** [Insert Your New GitHub Repository URL Here]
+* **GitHub Repository:** https://github.com/anish-hlv/Car_Price_Predictor.git
 
 ---
 
